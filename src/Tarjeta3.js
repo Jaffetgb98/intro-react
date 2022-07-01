@@ -1,6 +1,6 @@
 import React from "react";
 function Tarjeta3(props){
-    let ganadas=10
+    let ganadas=11
     let perdidas=9
     return (
     <div>
